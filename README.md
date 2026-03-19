@@ -4,17 +4,6 @@ Ingeniero de Sistemas especializado en arquitectura y desarrollo de soluciones e
 
 ---
 
-## 🚀 Sobre mí
-
-Me dedico al diseño, desarrollo e integración de aplicaciones empresariales, así como a la **reingeniería de sistemas legacy**, transformando soluciones heredadas en arquitecturas más mantenibles, escalables y eficientes.
-
-🧠 Perfil analítico y estructurado  
-📈 En mejora continua (técnica y personal)  
-🌱 Enfocado en construir soluciones con claridad, intención y calidad  
-
----
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEV-DLH-98/DEV-DLH-98/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEV-DLH-98/DEV-DLH-98/output/pacman-contribution-graph.svg">
