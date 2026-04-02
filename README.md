@@ -62,3 +62,5 @@ Me dedico al diseño, desarrollo e integración de aplicaciones empresariales, a
 
 
 # POO!
+Nf ivcjfsb hvtubep eftqfejsnf ef uj. Nf ibdft gbmub. 
+Qfsp tf rvf zp op uf ibhp gbmub. Csykvmb-Tjeeibsuib
